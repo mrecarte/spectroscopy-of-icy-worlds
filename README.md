@@ -1,7 +1,7 @@
 Hello!
 
 Project Overview:
-This repository cintain all of the files pertaining to my current research for creating a spectral analysis tool! 
+This repository contains all of the files pertaining to my current research for creating a spectral analysis tool! 
 
 This year, NASA will launch Europa Clipper. This mission will explore the surface salts and icy composition to better understand the moon's potential to support life. Europa Clipper is planned for launch in October 2024 and will arrive in 2030. NASA scientists have identified a list of salts that are present on the surface and sub-surface minerology on Europa, but not much else! So, this is where this project comes in! We would like to predict some mixtures present on Europa from the identifies salts so we can get to know a little bit more about the mechanical and chemical properties of this icy moon before it reaches in 2023 through advanced spectroscopic analysis.
 
